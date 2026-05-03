@@ -17,4 +17,4 @@ This project needs a backend first:
 
 - The malicious code got injected within the `BookCardComponent`
 
-[Solution](https://github.com/martinakraus/security-intro-2025/commit/9f22a3ac1f0467f69e395e010878e88368f1f753)
+[Solution](https://github.com/martinakraus/security-intro-2026/commit/9f22a3ac1f0467f69e395e010878e88368f1f753)

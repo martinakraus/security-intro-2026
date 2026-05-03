@@ -45,4 +45,4 @@ interface CorsOptions {
 }
 ```
 
-[Solution](https://github.com/martinakraus/security-intro-2025/commit/08e9a1c4d528ee8bdee98d178e549c7ec4a3f152)
+[Solution](https://github.com/martinakraus/security-intro-2026/commit/08e9a1c4d528ee8bdee98d178e549c7ec4a3f152)

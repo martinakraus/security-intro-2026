@@ -21,4 +21,4 @@ app.get('/', function (req, res) {
 });
 ```
 
-[Solution](https://github.com/martinakraus/security-intro-2025/commit/f7bc183b26696253d397ea860283193cc43255a1)
+[Solution](https://github.com/martinakraus/security-intro-2026/commit/f7bc183b26696253d397ea860283193cc43255a1)

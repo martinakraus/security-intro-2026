@@ -34,6 +34,6 @@ Hints : To generate the hash of the script content, use this online tool : [Repo
 - You can declare your CSP as a meta tag with http-equiv directive in index.html :<meta http-equiv="__directive__" content="__value__">
 - If your website is online you can check the security level of this CSP on csp-evaluator.withgoogle.com/
 
-[Solution Basic CSP](https://github.com/martinakraus/angular-security-intro-2025/commit/f5eab38c62a8622006207e6594ca27730c727cd4)
+[Solution Basic CSP](https://github.com/martinakraus/security-intro-2026/commit/f5eab38c62a8622006207e6594ca27730c727cd4)
 
-[Solution Basic CSP Hashes](https://github.com/martinakraus/angular-security-intro-2025/commit/26a6fede222295f542398b7a62dd330e6279b1b4)
+[Solution Basic CSP Hashes](https://github.com/martinakraus/security-intro-2026/commit/26a6fede222295f542398b7a62dd330e6279b1b4)
